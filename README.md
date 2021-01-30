@@ -1,12 +1,7 @@
 # website
 ## Home
 ### Carousel
- -Image: Stock Photo of Sexy People Topic: Consulting
- -Image: Arbitrary Packet Generator Concept Topic: Quantum Internet
- -Image: Combinatorics of Industrial Systems Topic: Energy Savings
- -Image: DNA Molecule Topic: Simulating Genetic Cures
- -Image: Computers Topic: Improved Computational Performance
- -Image: Money Topic: Phase Estimation in Financial Computation
+> -Image: Stock Photo of Sexy People Topic: Consulting -Image: Arbitrary Packet Generator Concept Topic: Quantum Internet -Image: Combinatorics of Industrial Systems Topic: Energy Savings -Image: DNA Molecule Topic: Simulating Genetic Cures -Image: Computers Topic: Improved Computational Performance -Image: Money Topic: Phase Estimation in Financial Computation
 ## Vision
  -Maintain Balance
  --Sustainability First
