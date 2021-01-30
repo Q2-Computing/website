@@ -5,3 +5,4 @@
 ## Hardware
 ## Team
 ## Contact Us
+## Registration
