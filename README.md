@@ -8,26 +8,26 @@
 - Image: Computers Topic: Improved Computational Performance
 - Image: Money Topic: Phase Estimation in Financial Computation
 ## Vision
- -Maintain Balance
- --Sustainability First
- -Reduce Cost
- --Money
- --Energy
- --Time
- --Computational Time
- --Computational Memory
- -Improve Hardware
- --Internet
- --Computers
- -Software Development
- --Integrating the quantum landscape
- --Pushing computational boundaries
- --Improving algorithmic understanding
- -Elevate Education
- --Videos
- --Software
- --Mathematics
- --Employee Training
+ - Maintain Balance
+ -- Sustainability First
+ - Reduce Cost
+ -- Money
+ -- Energy
+ -- Time
+ -- Computational Time
+ -- Computational Memory
+ - Improve Hardware
+ -- Internet
+ -- Computers
+ - Software Development
+ -- Integrating the quantum landscape
+ -- Pushing computational boundaries
+ -- Improving algorithmic understanding
+ - Elevate Education
+ -- Videos
+ -- Software
+ -- Mathematics
+ -- Employee Training
 ## Software
  --Review Papers (Decompose Those)
 ## Hardware
